@@ -1,0 +1,27 @@
+{
+  "name": "scplayer-scotchio",
+  "version": "1.0.0",
+  "description": "web version of scotchio soundcloud tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "start": "npm run build && node server.js"
+  },
+  "author": "tgdevjs",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.13.1",
+    "classnames": "^2.2.5",
+    "express": "^4.14.0",
+    "node-env-file": "^0.1.8",
+    "react": "^15.2.1",
+    "react-autocomplete": "^1.0.1",
+    "react-dom": "^15.2.1",
+    "babel-core": "^6.11.4",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.11.1",
+    "webpack": "^1.13.1"
+  }
+}
