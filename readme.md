@@ -1,5 +1,5 @@
 ### scplayer-scotchio
-react soundcloud player for web from scotchio tutorial.
+react soundcloud player for web from scotchio tutorial.  
 https://scotch.io/tutorials/build-a-music-player-with-react-electron-i-setup-basic-concepts
 
 on heroku:  
